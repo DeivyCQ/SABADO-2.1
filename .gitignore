@@ -127,6 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 # virtualenv
 DEIVYENV
 DEIVYENV/
+=======
+>>>>>>> c1f95af34ef8d9cb365db37fadf81e21786f1749
